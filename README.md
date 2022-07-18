@@ -1,13 +1,16 @@
 # Annual Business Survey 2019 Assessment (Group 3)
+**Description**
+
+This is an analysis of the Annual Business Survey of 2019 conducted by the U.S. Census Bureau. This survey covers all demographic, financial, and technological aspects of business owners in the United States. Utilizing the Company Summary and Technology Characteristics of Businesses datasets, we posed questions and answered them by cleaning, merging, and using the data provided to produce telling visuals.
+
 **Files Used:**
 
 ABS2019.ipynb: Jupyter file containing all code for this project
 
 ETL Report (Module 8).docx: Word Doc explaining the ETL process used in this project
 
-Final Report (Module8).docx: Word Doc explaining the Visualizations created in detail
+Final Report (Module8).docx: Word Doc explaining the data, processes, visualizations, and conclusions in detail
 
-Presentation (Module8).pptx: Slide show that corresponds to the Final Report
 
 **Prerequisites:**
 
