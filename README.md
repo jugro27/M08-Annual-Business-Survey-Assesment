@@ -11,6 +11,8 @@ ETL Report (Module 8).docx: Word Doc explaining the ETL process used in this pro
 
 Final Report (Module8).docx: Word Doc explaining the data, processes, visualizations, and conclusions in detail
 
+Presentation (Module8).pdf: Presentation slides summarizing report
+
 
 **Prerequisites:**
 
@@ -26,3 +28,5 @@ You can get your own API key and view the datasets at https://www.census.gov/dat
 3. Read the ETL report to understand the steps that were taken to clean the raw datasets used
 
 4. Read the final report for an in-depth explanation of how and why the visualizations were made in the ABS2019.ipynb file
+
+5. Look through the presentation slides to get a general idea of the report for a more broad understanding
