@@ -7,9 +7,9 @@ This is an analysis of the Annual Business Survey of 2019 conducted by the U.S. 
 
 ABS2019.ipynb: Jupyter file containing all code for this project
 
-ETL Report (Module 8).docx: Word Doc explaining the ETL process used in this project
+ETL Report (Module 8).pdf: Word Doc explaining the ETL process used in this project
 
-Final Report (Module8).docx: Word Doc explaining the data, processes, visualizations, and conclusions in detail
+Final Report (Module8).pdf: Word Doc explaining the data, processes, visualizations, and conclusions in detail
 
 Presentation (Module8).pdf: Presentation slides summarizing report
 
